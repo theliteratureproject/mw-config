@@ -567,6 +567,7 @@ $wgConf->settings = [
 	],
 	'wmgUseCite' => [
 		'default' => false,
+		'medlitreviews' => true,
 	],
 	'wmgUseCiteThisPage' => [
 		'default' => false,
@@ -799,6 +800,7 @@ $wgConf->settings = [
 	],
 	'wmgUseModernSkylight' => [
 		'default' => false,
+		'medlitreviews' => true,
 	],
 	'wmgUseMsCatSelect' => [
 		'default' => false,
